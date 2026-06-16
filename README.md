@@ -1,5 +1,5 @@
 Call Centre Analytics Dashboard — FY 2024
-Data Analyst Portfolio Project | TNM PLC | Fiscal Year 2024
+Data Analyst Portfolio Project | Fiscal Year 2024
 
 Table of Contents
 Business Problem
